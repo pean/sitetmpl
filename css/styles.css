@@ -1,0 +1,18 @@
+html, body {
+    height:100%;
+}
+
+body {
+    margin:0px;
+}
+
+* {
+    outline: none;
+}
+
+img {
+    border-width:0px;
+}
+
+
+
